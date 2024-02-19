@@ -1,0 +1,12 @@
+D:\C#Projects\IAmTimCorey - CSharp Mastercourse\code\095  Module09Lesson24\HotelAppLibrary\bin\Debug\net8.0\HotelAppLibrary.deps.json
+D:\C#Projects\IAmTimCorey - CSharp Mastercourse\code\095  Module09Lesson24\HotelAppLibrary\bin\Debug\net8.0\HotelAppLibrary.dll
+D:\C#Projects\IAmTimCorey - CSharp Mastercourse\code\095  Module09Lesson24\HotelAppLibrary\bin\Debug\net8.0\HotelAppLibrary.pdb
+D:\C#Projects\IAmTimCorey - CSharp Mastercourse\code\095  Module09Lesson24\HotelAppLibrary\obj\Debug\net8.0\HotelAppLibrary.csproj.AssemblyReference.cache
+D:\C#Projects\IAmTimCorey - CSharp Mastercourse\code\095  Module09Lesson24\HotelAppLibrary\obj\Debug\net8.0\HotelAppLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#Projects\IAmTimCorey - CSharp Mastercourse\code\095  Module09Lesson24\HotelAppLibrary\obj\Debug\net8.0\HotelAppLibrary.AssemblyInfoInputs.cache
+D:\C#Projects\IAmTimCorey - CSharp Mastercourse\code\095  Module09Lesson24\HotelAppLibrary\obj\Debug\net8.0\HotelAppLibrary.AssemblyInfo.cs
+D:\C#Projects\IAmTimCorey - CSharp Mastercourse\code\095  Module09Lesson24\HotelAppLibrary\obj\Debug\net8.0\HotelAppLibrary.csproj.CoreCompileInputs.cache
+D:\C#Projects\IAmTimCorey - CSharp Mastercourse\code\095  Module09Lesson24\HotelAppLibrary\obj\Debug\net8.0\HotelAppLibrary.dll
+D:\C#Projects\IAmTimCorey - CSharp Mastercourse\code\095  Module09Lesson24\HotelAppLibrary\obj\Debug\net8.0\refint\HotelAppLibrary.dll
+D:\C#Projects\IAmTimCorey - CSharp Mastercourse\code\095  Module09Lesson24\HotelAppLibrary\obj\Debug\net8.0\HotelAppLibrary.pdb
+D:\C#Projects\IAmTimCorey - CSharp Mastercourse\code\095  Module09Lesson24\HotelAppLibrary\obj\Debug\net8.0\ref\HotelAppLibrary.dll
